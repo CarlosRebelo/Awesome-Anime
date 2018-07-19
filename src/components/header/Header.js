@@ -1,11 +1,11 @@
 import React from 'react'
 import './Header.css'
-import './Anime.css'
+import './Text.css'
 
 let Header = () => {
     return(
         <div className='header'>
-            <div className='anime'>
+            <div className='text'>
                 <h1>Awesome Anime</h1>
             </div>
         </div>
